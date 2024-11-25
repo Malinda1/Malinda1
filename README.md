@@ -55,10 +55,10 @@
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='25'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='25'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='25'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='25'/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="25" height="25"/> 
 <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=25 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=25 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=25 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=25 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=25 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=25 >
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=25 >
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=25 >
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=25 >
 </p>
 ---
 

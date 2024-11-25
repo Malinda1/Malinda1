@@ -1,5 +1,5 @@
 
-<p align="center"> <img height="150" width="150" alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"> </p>
+<p align="center"> <img height="110" width="110" alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"> </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Pasindu Malinda</a></h1>
@@ -9,22 +9,17 @@ Pasindu Malinda</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="[[https://tenor.com/view/machine-learning-artificial-intelligence-gif-24276483](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)">
+  <img align="right" top="500" height="300" width="550" alt="GIF" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🤝 I’m available for Linkedin.
 
-- 🤝 I’m available for freelancing.
+- 🌱 I’m currently learning Machine learning model | Cloud platform | NoSQL <a href="https://github.com/aswintechguy/Machine-Learning-Projects" target="blank">Machine Learning</a>
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 💬 Ask me about **Machine Learning & Data Science**
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **malindap888@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>

@@ -34,7 +34,8 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malinda1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Malinda1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Malinda1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/> -->
+<img height="150em" src='https://github-readme-stats.vercel.app/api?username=Malinda1&show_icons=true&theme=radical&count_private=true'/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Malinda1&theme=algolia&background=0d1117&hide_border=true" />
@@ -67,8 +68,8 @@
 
 </p>
 <hr style="border: 1px solid gray;">
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250></picture>
 <hr style="border: 1px solid gray;">
 <h3 align="center">Support:</h3>
 <p align= "center"><a href="https://www.buymeacoffee.com/prasana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prasana" /></a></p>

@@ -77,26 +77,28 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/55251741/126321116-0c530eac-e84e-4cef-8646-29b366dce995.png"></code>
 <img height="25" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman"/>
 <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
-
+<p align="center" ><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height= 250 width = 250></p>
 </p>
 <hr style="border: 1px solid gray;">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-<a href="https://twitter.com/bholajaivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaivardhan-bhola-773944214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17393492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17393492" height="30" width="40" /></a>
-<a href="https://fb.com/jaivardhan.bhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaivardhan.bhola" height="30" width="40" /></a>
-<a href="https://instagram.com/jaivardhan-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaivardhan-bhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jaivardhanbhola/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaivardhanbhola/profile" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pasindu-malinda-ab7720227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17393492" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pasid.malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaivardhan.bhola" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pasindu_malinda_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
+<a href="https://www.threads.net/@pasindu_malinda_official" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4db6d308-cea2-4e6d-a996-d1656fc38ebc" alt="jaivardhanbhola/profile" height="30" width="40" /></a>
 </p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height= 250 width = 250></picture>
-<hr style="border: 1px solid gray;">
-<h3 align="center">Support:</h3>
-<p align= "center"><a href="https://www.buymeacoffee.com/prasana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prasana" /></a></p>
-</br></br>
 
-## Contribution Snake 
+
+
+<hr style="border: 1px solid gray;">
+
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+<hr style="border: 1px solid gray;">
 
+<h3 align="center">Support:</h3>
+<p align= "center"><a href="https://www.buymeacoffee.com/prasana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prasana" /></a></p>

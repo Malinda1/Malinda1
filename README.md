@@ -12,7 +12,8 @@
 
 <img align="right" height="210" width= "400" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-
+- 🔭 I’m currently working on **git** and **data analysis**
+  
 - 🤝 I’m available for Linkedin.
 
 - 🌱 I’m currently learning Machine learning model | Cloud platform <a href="https://github.com/aswintechguy/Machine-Learning-Projects" target="blank">Machine Learning</a>

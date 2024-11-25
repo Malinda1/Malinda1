@@ -60,7 +60,7 @@
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=25 >
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=25 >
 </p>
----
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 

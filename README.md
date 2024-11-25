@@ -24,7 +24,7 @@
   
 - ⚡ Fun fact **Call me as Pasi**
 
-  ---
+---
 <br/>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
@@ -35,6 +35,32 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Malinda1&theme=algolia&background=0d1117&hide_border=true" />
 </div>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" alt="java" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127426153-6f6d6c91-9778-43d9-a1df-95df61f23438.png" alt="mongodb" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427977-74d3fe09-d1c3-447a-9446-b28aae6df5cb.png" alt="ubuntu" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="25" height="25" />
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='25'/>&nbsp;
+<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='25'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='25'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='25'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='25'/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="25" height="25"/> 
+<img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=25 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=25 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=25 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=25 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=25 hspace=10>
+</p>
+---
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 

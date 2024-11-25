@@ -1,7 +1,7 @@
 
 <p align="center"> <img height="110" width="110" alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"> </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Pasindu Malinda</a></h1>
+<h1 align="center">Hi <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Pasindu Malinda</a></h1>
 
 <h3 align="center">A passionate Data Scientist | Machine Learning Engineering | Data Analyst from Sri Lanka 🇱🇰</h3>
 

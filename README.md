@@ -10,7 +10,7 @@
 ---
 
 
-<img align="right" height="210" width= "400" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="240" width= "400" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 - 🏫 I'm undergraduate at **NSBM Green university**
    

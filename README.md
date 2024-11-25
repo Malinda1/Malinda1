@@ -1,3 +1,6 @@
+
+<p align="center"> <img alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"> </p>
+
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Pasindu Malinda</a></h1>
 <h3 align="center">A passionate Data Scientist | Machine Learning Engineering | Data Analyst from Sri Lanka 🇱🇰</h3>
@@ -6,7 +9,7 @@ Pasindu Malinda</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://tenor.com/view/machine-learning-artificial-intelligence-gif-24276483">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="[[https://tenor.com/view/machine-learning-artificial-intelligence-gif-24276483](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>

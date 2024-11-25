@@ -9,9 +9,8 @@
 
 ---
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="350" alt="GIF" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</a>
+
+<img align="right" height="210" width= "400" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 
 - 🤝 I’m available for Linkedin.

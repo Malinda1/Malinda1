@@ -12,9 +12,11 @@
 
 <img align="right" height="270" width= "400" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-- 🏫 I'm undergraduate at **NSBM Green university**
+ 
    
 - 🔭 I’m currently working on **git** and **data analysis**
+  
+- 🏫 I'm undergraduate at **NSBM Green university**
   
 - 🤝 I’m available for **Linkedin**.
 

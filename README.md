@@ -15,13 +15,14 @@ Pasindu Malinda</a></h1>
 
 - 🤝 I’m available for Linkedin.
 
-- 🌱 I’m currently learning Machine learning model | Cloud platform | NoSQL <a href="https://github.com/aswintechguy/Machine-Learning-Projects" target="blank">Machine Learning</a>
+- 🌱 I’m currently learning Machine learning model | Cloud platform <a href="https://github.com/aswintechguy/Machine-Learning-Projects" target="blank">Machine Learning</a>
 
 - 💬 Ask me about **Machine Learning & Data Science**
 
 - 📫 How to reach me **malindap888@gmail.com**
+  
+- ⚡ Fun fact **Call me as Pasi**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 

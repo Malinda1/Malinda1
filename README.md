@@ -1,5 +1,5 @@
 
-<p align="center"> <img alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"> </p>
+<p align="center"> <img height="150" width="150" alt="GIF" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"> </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Pasindu Malinda</a></h1>

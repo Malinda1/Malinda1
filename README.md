@@ -57,7 +57,10 @@
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=25 >
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=25 >
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=25 >
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=25 >
+<a  margin="10" href="https://scikit-learn.org/" target="_blank"><img margin="10px" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"/> </a>
+
+  <img height="25" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman"/>
+
 </p>
 
 

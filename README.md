@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Pasindu Malinda</a></h1>
 
-<h3 align="center">A passionate Data Scientist | Machine Learning Engineering | Data Analyst from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate Data Science | Machine Learning Engineering | Data Analysis from Sri Lanka 🇱🇰</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 

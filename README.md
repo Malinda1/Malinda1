@@ -14,7 +14,7 @@
 
  
    
-- 🔭 I’m currently working on **git** and **data analysis**
+- 🔭 I’m currently working on **git** and **Deep Learning**
   
 - 🏫 I'm undergraduate at **NSBM Green university**
   

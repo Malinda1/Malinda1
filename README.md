@@ -14,13 +14,13 @@
 
  
    
-- 🔭 I’m currently working on **git** and **Deep Learning**
+- 🔭 I’m currently working on **Data analysis** and **Deep Learning**
   
 - 🏫 I'm undergraduate at **NSBM Green university**
   
 - 🤝 I’m available for **Linkedin**.
 
-- 🌱 I’m currently learning **Machine learning model** | **Cloud platform** <a href="https://github.com/aswintechguy/Machine-Learning-Projects" target="blank">Machine Learning</a>
+- 🌱 I’m currently learning **Machine learning model** | **MySQL** <a href="https://github.com/aswintechguy/Machine-Learning-Projects" target="blank">Machine Learning</a>
 
 - 💬 Ask me about **Machine Learning & Data Science**
 

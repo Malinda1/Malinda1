@@ -20,7 +20,7 @@
   
 - 🤝 I’m available for **Linkedin**.
 
-- 🌱 I’m currently learning **Machine learning model** | **MySQL** <a href="https://github.com/aswintechguy/Machine-Learning-Projects" target="blank">Machine Learning</a>
+- 🌱 I’m currently learning **Machine learning model** | **MySQL** 
 
 - 💬 Ask me about **Machine Learning & Data Science**
 

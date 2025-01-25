@@ -44,13 +44,19 @@
 
 <hr style= "border: 1px solid gray">
 
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malinda1&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+<hr style= "border: 1px solid gray">
+
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malinda1&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malinda1&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malinda1&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malinda1&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malinda1&theme=solarized_dark&utcOffset=8">
-	
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malinda1&theme=solarized_dark&utcOffset=8">	
 </p>
 <hr style= "border: 1px solid gray">
 <p align="center">

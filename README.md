@@ -40,9 +40,7 @@
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Malinda1&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/> -->
 <img height="150em" src='https://github-readme-stats.vercel.app/api?username=Malinda1&show_icons=true&theme=radical&count_private=true'/>
 </div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Malinda1&theme=algolia&background=0d1117&hide_border=true" />
-</div>
+
 
 <hr style= "border: 1px solid gray">
 

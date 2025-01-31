@@ -20,7 +20,7 @@
   
 - 🤝 I’m available for **Linkedin**.
 
-- 🌱 I’m currently learning **Machine learning model** | **MySQL** 
+- 🌱 I’m currently learning **Machine learning model** | **Data PreProcessing** 
 
 - 💬 Ask me about **Machine Learning & Data Science**
 

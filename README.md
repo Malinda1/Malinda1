@@ -89,12 +89,12 @@
 <hr style="border: 1px solid gray;">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-<a href="https://x.com/pasindu_m999" target="blank"><img align="center" src="https://github.com/user-attachments/assets/283488df-c867-4e25-b9a3-1857f16db509"  height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/pasindu-malinda-ab7720227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29559384/pasindu-malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17393492" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pasid.malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaivardhan.bhola" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pasindu_malinda_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
-<a href="https://www.threads.net/@pasindu_malinda_official" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4db6d308-cea2-4e6d-a996-d1656fc38ebc" alt="jaivardhanbhola/profile" height="40" width="40" /></a>
+<a href="https://x.com/pasindu_m999" target="blank"><img align="center" src="https://github.com/user-attachments/assets/283488df-c867-4e25-b9a3-1857f16db509"  height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/pasindu-malinda-ab7720227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/29559384/pasindu-malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17393492" height="30" width="30" /></a>
+<a href="https://www.facebook.com/pasid.malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaivardhan.bhola" height="30" width="30" /></a>
+<a href="https://www.instagram.com/pasindu_malinda_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="30" /></a>
+<a href="https://www.threads.net/@pasindu_malinda_official" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4db6d308-cea2-4e6d-a996-d1656fc38ebc" alt="jaivardhanbhola/profile" height="30" width="30" /></a>
 </p>
 
 

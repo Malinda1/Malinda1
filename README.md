@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Pasindu Malinda</a></h1>
 
-<h3 align="center">A passionate Data Science | Machine Learning Engineering | Data Analysis from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate AI Engineering | Machine Learning Engineering | Data Analysis from Sri Lanka 🇱🇰</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -14,15 +14,15 @@
 
  
    
-- 🔭 I’m currently working on **Data analysis** and **Deep Learning**
+- 🔭 I’m currently working on **AI Engineering** and **ML Enginnering**
   
 - 🏫 I'm undergraduate at **NSBM Green university**
   
 - 🤝 I’m available for **Linkedin**.
 
-- 🌱 I’m currently learning **Machine learning model** | **Data PreProcessing** 
+- 🌱 I’m currently learning **Machine learning** | **AI Engineering** 
 
-- 💬 Ask me about **Machine Learning & Data Science**
+- 💬 Ask me about **Machine Learning Engineering& AI Engineering**
 
 - 📫 How to reach me **malindap888@gmail.com**
   
